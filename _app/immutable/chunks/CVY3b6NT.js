@@ -1,0 +1,1 @@
+var e=``+new URL(`../assets/tomat.7LVTwVgT.png`,import.meta.url).href;export{e as t};
