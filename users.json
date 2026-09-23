@@ -1,10 +1,12 @@
 [
   {
+    "trusted": true,
     "name": "root",
     "encrypted_password": "",
     "is-admin": true
   },
   {
+    "trusted": false,
     "name": "User1",
     "encrypted_password": "",
     "is-admin": false
