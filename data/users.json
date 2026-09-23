@@ -1,0 +1,12 @@
+[
+  {
+    "name": "root",
+    "encrypted_password": "",
+    "is-admin": true
+  },
+  {
+    "name": "User1",
+    "encrypted_password": "",
+    "is-admin": false
+  }
+]
